@@ -1,0 +1,42 @@
+id: I8FBA6FFA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:15:41.080387'
+last_modified: '2022-05-30T18:15:41.080392'
+parser: null
+source_metadata:
+  title: Adeu Rinpoche Series
+  language: bo
+  description: 'Texts by and about the Eighth Trulshik Adeu Rinpoche, Druprik Khyuchok
+    (''khrul zhig a lde''u grub rigs khyu mchog, 1931–2007), a senior Drukpa Kagyü
+    master from Nangchen:'
+  volume:
+    f1F24:
+      title: Magnetizing (Wangdü) Prayer
+      base_file: f1F24.txt
+      order: 1
+      parent: Prayers
+    f9942:
+      title: Prayer to Drukpa Kunley
+      base_file: f9942.txt
+      order: 2
+      parent: Prayers
+    fD46A:
+      title: Windhorse Practice of Tārā
+      base_file: fD46A.txt
+      order: 3
+      parent: Prayers
+    f1439:
+      title: 'The Falling Rain of Blessings: A Brief Daily Practice of the Wealth
+        Deity White Jambhala'
+      base_file: f1439.txt
+      order: 4
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
